@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerSig", "SerSig.csproj", "{A01F8DA9-F527-435C-9F71-9E3C932131A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClient", "..\TcpClient\TcpClient.csproj", "{BBC3F11E-60C1-469A-AD0A-12A9DB15BD00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01F8DA9-F527-435C-9F71-9E3C932131A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01F8DA9-F527-435C-9F71-9E3C932131A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01F8DA9-F527-435C-9F71-9E3C932131A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01F8DA9-F527-435C-9F71-9E3C932131A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC3F11E-60C1-469A-AD0A-12A9DB15BD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC3F11E-60C1-469A-AD0A-12A9DB15BD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC3F11E-60C1-469A-AD0A-12A9DB15BD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC3F11E-60C1-469A-AD0A-12A9DB15BD00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1641EB00-FC28-499E-9464-CE850B960473}
+	EndGlobalSection
+EndGlobal
